@@ -1,5 +1,4 @@
-layout_spectrum: 0.3064516
-typography_spectrum: 0.09498208
+layout_spectrum: 1
 color:
   saturation: 1
   lightness: 0.3010753
@@ -11,4 +10,5 @@ color:
     - '#F3B40D'
     - '#E77338'
   rhythmicContrast: 0.4086021
+typography_spectrum: 0.09498208
 name: Enlightened Child
